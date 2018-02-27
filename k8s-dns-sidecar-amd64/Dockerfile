@@ -1,4 +1,4 @@
 #For don't connect to gcr.io in china.
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.4
+FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.8
 
-MAINTAINER siriuszg <zhigang52110@sina.com>
+LABEL maintainer="siriuszg <zhigang52110@sina.com>"
