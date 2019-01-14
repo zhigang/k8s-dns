@@ -12,6 +12,7 @@ docker pull siriuszg/k8s-dns-sidecar-amd64:TAG
 
 ## TAG
 
+* 1.15.0, latest
 * 1.14.13, latest
 * 1.14.8
 * 1.14.4
